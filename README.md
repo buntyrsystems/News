@@ -1,4 +1,4 @@
-# News 
+# News Project
 
 This project consists of .Net Core 6 Web API as backend and Angular 16 for frontend. Backend project with 6 layers clean architecture i.e
  -  News.API
